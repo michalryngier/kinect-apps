@@ -1,0 +1,17 @@
+C:\Users\micha\playground\Kinect\KinectWpf\obj\Debug\net471\KinectWpf.csproj.AssemblyReference.cache
+C:\Users\micha\playground\Kinect\KinectWpf\obj\Debug\net471\KinectWpf.csproj.SuggestedBindingRedirects.cache
+C:\Users\micha\playground\Kinect\KinectWpf\obj\Debug\net471\MainWindow.g.cs
+C:\Users\micha\playground\Kinect\KinectWpf\obj\Debug\net471\App.g.cs
+C:\Users\micha\playground\Kinect\KinectWpf\obj\Debug\net471\KinectWpf_MarkupCompile.cache
+C:\Users\micha\playground\Kinect\KinectWpf\obj\Debug\net471\KinectWpf_MarkupCompile.lref
+C:\Users\micha\playground\Kinect\KinectWpf\bin\Debug\net471\KinectWpf.exe.config
+C:\Users\micha\playground\Kinect\KinectWpf\bin\Debug\net471\KinectWpf.exe
+C:\Users\micha\playground\Kinect\KinectWpf\bin\Debug\net471\KinectWpf.pdb
+C:\Users\micha\playground\Kinect\KinectWpf\obj\Debug\net471\MainWindow.baml
+C:\Users\micha\playground\Kinect\KinectWpf\obj\Debug\net471\KinectWpf.g.resources
+C:\Users\micha\playground\Kinect\KinectWpf\obj\Debug\net471\KinectWpf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\playground\Kinect\KinectWpf\obj\Debug\net471\KinectWpf.AssemblyInfoInputs.cache
+C:\Users\micha\playground\Kinect\KinectWpf\obj\Debug\net471\KinectWpf.AssemblyInfo.cs
+C:\Users\micha\playground\Kinect\KinectWpf\obj\Debug\net471\KinectWpf.csproj.CoreCompileInputs.cache
+C:\Users\micha\playground\Kinect\KinectWpf\obj\Debug\net471\KinectWpf.exe
+C:\Users\micha\playground\Kinect\KinectWpf\obj\Debug\net471\KinectWpf.pdb

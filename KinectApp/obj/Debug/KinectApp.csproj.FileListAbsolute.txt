@@ -1,0 +1,12 @@
+C:\Users\micha\playground\KinectApp\bin\Debug\KinectApp.exe
+C:\Users\micha\playground\KinectApp\bin\Debug\KinectApp.pdb
+C:\Users\micha\playground\KinectApp\bin\Debug\Microsoft.Kinect.dll
+C:\Users\micha\playground\KinectApp\bin\Debug\Microsoft.Kinect.xml
+C:\Users\micha\playground\KinectApp\obj\Debug\KinectApp.csproj.AssemblyReference.cache
+C:\Users\micha\playground\KinectApp\obj\Debug\KinectApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\micha\playground\KinectApp\obj\Debug\Interop.KinectManagement.dll
+C:\Users\micha\playground\KinectApp\obj\Debug\KinectApp.csproj.ResolveComReference.cache
+C:\Users\micha\playground\KinectApp\obj\Debug\KinectApp.csproj.CoreCompileInputs.cache
+C:\Users\micha\playground\KinectApp\obj\Debug\KinectApp.csproj.CopyComplete
+C:\Users\micha\playground\KinectApp\obj\Debug\KinectApp.exe
+C:\Users\micha\playground\KinectApp\obj\Debug\KinectApp.pdb

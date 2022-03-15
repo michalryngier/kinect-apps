@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="e:\visual studio ide\visual studio\team tools\static analysis tools\fxcop\Xml\CodeAnalysisReport.xsl"?>
+<FxCopReport Version="17.0">
+ <Targets>
+  <Target Name="C:\Users\micha\playground\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.dll">
+   <Modules>
+    <Module Name="microsoft.kinect.toolkit.dll">
+     <Messages>
+      <Message TypeName="AssembliesShouldHaveValidStrongNames" Category="Microsoft.Design" CheckId="CA2210" Status="Active" Created="2022-03-09 18:54:58Z" FixCategory="NonBreaking">
+       <Issue Name="NoStrongName" Certainty="95" Level="CriticalError">Podpisz element 'Microsoft.Kinect.Toolkit.dll' kluczem silnej nazwy.</Issue>
+      </Message>
+     </Messages>
+    </Module>
+   </Modules>
+  </Target>
+ </Targets>
+ <Rules>
+  <Rule TypeName="AssembliesShouldHaveValidStrongNames" Category="Microsoft.Design" CheckId="CA2210">
+   <Name>Zestawy powinny mieć prawidłowe silne nazwy</Name>
+   <Description>Zestaw nie ma silnej nazwy, ma nieprawidłową nazwę lub silna nazwa jest prawidłowa tylko ze względu na konfigurację komputera. Zestaw nie powinien zostać wdrożony w tym stanie. Najbardziej typowe przyczyny to: 1) zawartość zestawu została zmodyfikowana po podpisaniu go. 2) Proces podpisywania nie powiódł się. 3) Zestaw został podpisany z opóźnieniem. 4) Istniał klucz rejestru, który umożliwił powodzenie kontroli (co w innym wypadku byłoby niemożliwe).</Description>
+   <Resolution Name="NoStrongName">Podpisz element {0} kluczem silnej nazwy.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182127.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="95">CriticalError</MessageLevel>
+   <File Name="designrules.dll" Version="17.0.0.0" />
+  </Rule>
+ </Rules>
+ <Localized>
+  <String Key="Category">Kategoria</String>
+  <String Key="Certainty">Pewność</String>
+  <String Key="CollapseAll">Zwiń wszystko</String>
+  <String Key="CheckId">Identyfikator testu</String>
+  <String Key="Error">Błąd</String>
+  <String Key="Errors">błędy</String>
+  <String Key="ExpandAll">Rozwiń wszystko</String>
+  <String Key="Help">Pomoc</String>
+  <String Key="Line">Wiersz</String>
+  <String Key="Messages">komunikaty</String>
+  <String Key="LocationNotStoredInPdb">[Lokalizacja nie jest przechowywana w pliku PDB]</String>
+  <String Key="Project">Projekt</String>
+  <String Key="Resolution">Rozwiązanie</String>
+  <String Key="Rule">Reguła</String>
+  <String Key="RuleFile">Plik reguł</String>
+  <String Key="RuleDescription">Opis reguły</String>
+  <String Key="Source">Źródło</String>
+  <String Key="Status">Stan</String>
+  <String Key="Target">Element docelowy</String>
+  <String Key="Warning">Ostrzeżenie</String>
+  <String Key="Warnings">ostrzeżenia</String>
+  <String Key="ReportTitle">Raport rozszerzenia Code Analysis</String>
+ </Localized>
+</FxCopReport>
